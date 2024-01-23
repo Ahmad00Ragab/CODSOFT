@@ -1,4 +1,4 @@
-TASK 2
+# TASK 2:
 CALCULATOR
 Design a simple calculator with basic arithmetic operations.
 Prompt the user to input two numbers and an operation choice.
