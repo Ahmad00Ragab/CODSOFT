@@ -11,7 +11,7 @@ the computer.
 
 Game Logic         : Determine the winner based on the user's choice and the
 computer's choice.
-s
+
 paper beats rock.
 Rock beats scissors, 
 scissors beat paper, 
